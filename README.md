@@ -1,3 +1,3 @@
 # jsm2019
 Test
-Kim Hart
+Kim Hart Project for JSM
